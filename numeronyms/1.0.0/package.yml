@@ -12,6 +12,7 @@ matches:
   - { trigger: ":o11y", replace: "observability", propagate_case: true }
   - { trigger: ":p13n", replace: "personalization", propagate_case: true }
   - { trigger: ":p8s", replace: "Prometheus" }
+  - { trigger: ":r9y", replace: "reliability", propagate_case: true }
   - { trigger: ":s5n", replace: "shorten", propagate_case: true }
   - { trigger: ":tr8n", replace: "translation", propagate_case: true }
   - { trigger: ":v11n", replace: "versification", propagate_case: true }
