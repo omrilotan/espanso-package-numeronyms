@@ -2,7 +2,7 @@
 package_name: "numeronyms"
 package_title: "Numeronyms"
 package_desc: "Commonly used numeronyms"
-package_version: "1.0.0"
+package_version: "1.1.0"
 package_author: "omrilotan"
 package_repo: "https://github.com/omrilotan/espanso-package-numeronyms"
 ---
@@ -27,18 +27,40 @@ espanso restart
 | Numeronym | Word
 | - | -
 | :a11y | accessibility
-| :g11n | globalisation
+| :a12n | authentication
+| :a13n | authorization
+| :c10t | concurrent
+| :c10y | complexity
+| :c11n | collaboration
+| :c12n | configuration
+| :c14n | canonicalization
+| :d9t | development
+| :d11n | documentation
+| :e13t | entertainment
+| :g11n | globalization
+| :h10n | humanization
 | :i14y | interoperability
 | :i18n | internationalization
 | :k8s | Kubernetes
-| :l10n | localisation
-| :m12n | modularisation
+| :l10n | localization
+| :m11t | microservices
+| :m12n | modularization
+| :n8n | notation
 | :o11y | observability
+| :o12n | optimization
+| :p11y | portability
 | :p13n | personalization
 | :p8s | Prometheus
+| :r9y | reliability
+| :r13t | responsibility
 | :s5n | shorten
+| :s10n | separation
+| :s10y | scalability
+| :s11y | sustainability
+| :s12n | serialization
 | :tr8n | translation
 | :v11n | versification
+| :v12n | virtualization
 
 Non-name words propagate case:
 

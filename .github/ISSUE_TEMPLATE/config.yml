@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Espensohub Package
-    url: https://hub.espanso.org/packages/wtc/
-    about: Package listed on espenso hub
+  - name: Espanso Hub Package
+    url: https://hub.espanso.org/numeronyms
+    about: Package listed on Espanso hub
